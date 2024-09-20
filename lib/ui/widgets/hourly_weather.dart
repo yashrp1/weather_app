@@ -150,7 +150,7 @@ class HourlyWeatherItem extends StatelessWidget {
 
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 8),
-      margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+      margin: const EdgeInsets.symmetric(horizontal: 15, vertical: 10),
       decoration: BoxDecoration(
         color: Colors.blue,
         borderRadius: BorderRadius.circular(10),
